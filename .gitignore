@@ -1,0 +1,7 @@
+*.exe
+*.pdb
+*.obj
+kernel32.*
+NtDll.*
+zig-cache/**
+build/**
